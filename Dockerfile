@@ -1,4 +1,4 @@
-FROM node:lts-buster
+/*FROM node:lts-buster
 
 RUN apt-get update && \
   apt-get install -y \
@@ -17,3 +17,4 @@ COPY . .
 EXPOSE 5000
 
 RUN npm start
+\*

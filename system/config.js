@@ -1,19 +1,19 @@
 // Owner number
-global.owner = '6285221100126'
+global.owner = '6288217843188'
 // Owner name
-global.owner_name = 'Wildan Izzudin'
+global.owner_name = 'Reza Akbar'
 // Maximum upload file size limit (Default : 250 MB)
 global.max_upload = 250
 // Delay for spamming protection (Default : 3 seconds)
 global.cooldown = 3
 // User Limitation (Default : 10)
-global.limit = 10
+global.limit = 99999
 // Time to be temporarily banned and others (Default : 30 minutes)
 global.timer = 1800000
 // Symbols that are excluded when adding a prefix (Don't change it)
 global.evaluate_chars = ['=>', '~>', '<', '>', '$']
 // Country code that will be automatically blocked by the system, when sending messages in private chat
-global.blocks = ['91', '92', '212']
+global.blocks = ['91', '92']
 // Put target jid to forward friends story
 global.forwards = '6285221100126@c.us'
 // Get neoxr apikey by registering at https://api.nxr.my.id

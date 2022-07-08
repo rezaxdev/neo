@@ -26,7 +26,7 @@ exports.run = {
       text += '◦ *Library* : Baileys v4.2.0\n'
       text += '◦ *Platform* : win32\n'
       text += '◦ *Instagram* : https://Instagram.com/reteam.id\n'
-      text += '◦ *Source* : https://github.com/reza838/\n\n'
+      text += '◦ *Script bot* : https://youtu.be/hl6N1wtzenc\n\n'
       text += 'If you find an error or want to upgrade premium plan contact the owner.'
       await client.sendList(m.chat, '', text, '', 'Tap!', [{
          rows

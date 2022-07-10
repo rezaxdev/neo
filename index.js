@@ -25,7 +25,7 @@ CFonts.say('NEOXR BOT', {
     font: 'tiny',
     align: 'center',
     colors: ['system']
-}), CFonts.say('Github : https://github.com/neoxr/neoxr-bot-md', {
+}), CFonts.say('Github : https://github.com/rezaxdev/neo', {
     colors: ['system'],
     font: 'console',
     align: 'center'
